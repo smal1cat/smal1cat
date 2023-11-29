@@ -1,0 +1,16 @@
+.keyphrase {
+    word-spacing: 10em ;
+    text-align: center;
+    display: flex;
+    background-color: red;
+    /*white-space : nowrap;   <-- 요거 줄바꿈 방지 */
+  }
+
+.question {
+    background-color: whitesmoke;
+    padding: 30px;
+    border: 4px black;
+    font-size: 15px;
+    border-radius: 60px 60px 60px 60px;
+  }
+
