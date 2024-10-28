@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/css3-0000FF.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF" /></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-4682B4.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" /></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-FF8C00.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=FF0000" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=8B0000" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=000000" /></a>
 
 <p></p>
